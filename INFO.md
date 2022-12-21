@@ -1,4 +1,6 @@
-git is awesome!
-new line
-experiment with amend
+﻿git is awesome!
+Hexlet line
+git line
 
+
+new line 2
